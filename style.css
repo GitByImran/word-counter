@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 5px 10px;
+}
+
+.counter_button {
+  font-size: 14px;
+  padding: 3px 10px;
+}
+
+#counter_input {
+  margin: 10px 0;
+  padding: 5px;
+  resize: none;
+  border: 1px solid #ccc;
+  outline: 1px solid #ccc;
+}
+
+.count_result {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.count_result h2,
+p {
+  font-size: 14px;
+  font-weight: 500;
+}
