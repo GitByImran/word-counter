@@ -2,6 +2,8 @@
 
 This is a simple browser extension that allows users to count the number of words and characters in a text input field. It can be useful for writers, editors, students, or anyone who needs to keep track of the length of their text.
 
+![word counter](https://i.ibb.co/h7PP89C/image.png)
+
 ### Features
 
 - Counts the number of words and characters in real-time as the user types.
