@@ -4,6 +4,7 @@
 }
 
 body {
+  max-width: 300px; /* if using as tool, remove if using as extension */
   padding: 5px 10px;
 }
 
